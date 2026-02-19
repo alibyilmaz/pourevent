@@ -1,0 +1,17 @@
+C:\pourevents\src\Pours.Infrastructure\bin\Debug\net8.0\Pours.Infrastructure.deps.json
+C:\pourevents\src\Pours.Infrastructure\bin\Debug\net8.0\Pours.Infrastructure.dll
+C:\pourevents\src\Pours.Infrastructure\bin\Debug\net8.0\Pours.Infrastructure.pdb
+C:\pourevents\src\Pours.Infrastructure\bin\Debug\net8.0\Pours.Application.dll
+C:\pourevents\src\Pours.Infrastructure\bin\Debug\net8.0\Pours.Domain.dll
+C:\pourevents\src\Pours.Infrastructure\bin\Debug\net8.0\Pours.Domain.pdb
+C:\pourevents\src\Pours.Infrastructure\bin\Debug\net8.0\Pours.Application.pdb
+C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\Pours.Infrastructure.csproj.AssemblyReference.cache
+C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\Pours.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\Pours.Infrastructure.AssemblyInfoInputs.cache
+C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\Pours.Infrastructure.AssemblyInfo.cs
+C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\Pours.Infrastructure.csproj.CoreCompileInputs.cache
+C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\Pours.In.6EB75DD6.Up2Date
+C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\Pours.Infrastructure.dll
+C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\refint\Pours.Infrastructure.dll
+C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\Pours.Infrastructure.pdb
+C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\ref\Pours.Infrastructure.dll

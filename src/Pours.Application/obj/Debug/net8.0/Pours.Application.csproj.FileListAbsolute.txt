@@ -1,0 +1,15 @@
+C:\pourevents\src\Pours.Application\bin\Debug\net8.0\Pours.Application.deps.json
+C:\pourevents\src\Pours.Application\bin\Debug\net8.0\Pours.Application.dll
+C:\pourevents\src\Pours.Application\bin\Debug\net8.0\Pours.Application.pdb
+C:\pourevents\src\Pours.Application\bin\Debug\net8.0\Pours.Domain.dll
+C:\pourevents\src\Pours.Application\bin\Debug\net8.0\Pours.Domain.pdb
+C:\pourevents\src\Pours.Application\obj\Debug\net8.0\Pours.Application.csproj.AssemblyReference.cache
+C:\pourevents\src\Pours.Application\obj\Debug\net8.0\Pours.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\pourevents\src\Pours.Application\obj\Debug\net8.0\Pours.Application.AssemblyInfoInputs.cache
+C:\pourevents\src\Pours.Application\obj\Debug\net8.0\Pours.Application.AssemblyInfo.cs
+C:\pourevents\src\Pours.Application\obj\Debug\net8.0\Pours.Application.csproj.CoreCompileInputs.cache
+C:\pourevents\src\Pours.Application\obj\Debug\net8.0\Pours.Ap.5C023835.Up2Date
+C:\pourevents\src\Pours.Application\obj\Debug\net8.0\Pours.Application.dll
+C:\pourevents\src\Pours.Application\obj\Debug\net8.0\refint\Pours.Application.dll
+C:\pourevents\src\Pours.Application\obj\Debug\net8.0\Pours.Application.pdb
+C:\pourevents\src\Pours.Application\obj\Debug\net8.0\ref\Pours.Application.dll

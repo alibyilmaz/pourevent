@@ -1,0 +1,6 @@
+{
+  "Pours.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\pourevents\\src\\Pours.Api",
+  "Pours.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\pourevents\\src\\Pours.Application",
+  "Pours.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\pourevents\\src\\Pours.Domain",
+  "Pours.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\pourevents\\src\\Pours.Infrastructure"
+}

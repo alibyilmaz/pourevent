@@ -1,0 +1,11 @@
+C:\pourevents\src\Pours.Domain\bin\Debug\net8.0\Pours.Domain.deps.json
+C:\pourevents\src\Pours.Domain\bin\Debug\net8.0\Pours.Domain.dll
+C:\pourevents\src\Pours.Domain\bin\Debug\net8.0\Pours.Domain.pdb
+C:\pourevents\src\Pours.Domain\obj\Debug\net8.0\Pours.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\pourevents\src\Pours.Domain\obj\Debug\net8.0\Pours.Domain.AssemblyInfoInputs.cache
+C:\pourevents\src\Pours.Domain\obj\Debug\net8.0\Pours.Domain.AssemblyInfo.cs
+C:\pourevents\src\Pours.Domain\obj\Debug\net8.0\Pours.Domain.csproj.CoreCompileInputs.cache
+C:\pourevents\src\Pours.Domain\obj\Debug\net8.0\Pours.Domain.dll
+C:\pourevents\src\Pours.Domain\obj\Debug\net8.0\refint\Pours.Domain.dll
+C:\pourevents\src\Pours.Domain\obj\Debug\net8.0\Pours.Domain.pdb
+C:\pourevents\src\Pours.Domain\obj\Debug\net8.0\ref\Pours.Domain.dll
