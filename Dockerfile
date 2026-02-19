@@ -1,7 +1,6 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /src
 
-COPY PourEvents.sln ./
 COPY src/Pours.Domain/Pours.Domain.csproj src/Pours.Domain/
 COPY src/Pours.Application/Pours.Application.csproj src/Pours.Application/
 COPY src/Pours.Infrastructure/Pours.Infrastructure.csproj src/Pours.Infrastructure/
