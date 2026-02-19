@@ -10,6 +10,7 @@ C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\Pours.Infrastructure.Gen
 C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\Pours.Infrastructure.AssemblyInfoInputs.cache
 C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\Pours.Infrastructure.AssemblyInfo.cs
 C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\Pours.Infrastructure.csproj.CoreCompileInputs.cache
+C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\Pours.Infrastructure.sourcelink.json
 C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\Pours.In.6EB75DD6.Up2Date
 C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\Pours.Infrastructure.dll
 C:\pourevents\src\Pours.Infrastructure\obj\Debug\net8.0\refint\Pours.Infrastructure.dll

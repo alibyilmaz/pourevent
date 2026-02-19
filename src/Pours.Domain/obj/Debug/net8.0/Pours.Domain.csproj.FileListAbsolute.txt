@@ -5,6 +5,7 @@ C:\pourevents\src\Pours.Domain\obj\Debug\net8.0\Pours.Domain.GeneratedMSBuildEdi
 C:\pourevents\src\Pours.Domain\obj\Debug\net8.0\Pours.Domain.AssemblyInfoInputs.cache
 C:\pourevents\src\Pours.Domain\obj\Debug\net8.0\Pours.Domain.AssemblyInfo.cs
 C:\pourevents\src\Pours.Domain\obj\Debug\net8.0\Pours.Domain.csproj.CoreCompileInputs.cache
+C:\pourevents\src\Pours.Domain\obj\Debug\net8.0\Pours.Domain.sourcelink.json
 C:\pourevents\src\Pours.Domain\obj\Debug\net8.0\Pours.Domain.dll
 C:\pourevents\src\Pours.Domain\obj\Debug\net8.0\refint\Pours.Domain.dll
 C:\pourevents\src\Pours.Domain\obj\Debug\net8.0\Pours.Domain.pdb

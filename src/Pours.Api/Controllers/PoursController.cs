@@ -35,6 +35,21 @@ public sealed class PoursController : ControllerBase
         if (result.IsInvalid)
             return BadRequest(new { errors = result.Errors.Select(e => new { field = e.Field, error = e.Message }) });
 
-        return result.IsNew ? StatusCode(StatusCodes.Status201Created) : Ok();
+        if (result.IsNew)
+        {
+            return StatusCode(StatusCodes.Status201Created, new
+            {
+                status = "created",
+                eventId = request.EventId,
+                idempotent = false
+            });
+        }
+
+        return Ok(new
+        {
+            status = "already_processed",
+            eventId = request.EventId,
+            idempotent = true
+        });
     }
 }

@@ -8,6 +8,7 @@ C:\pourevents\src\Pours.Application\obj\Debug\net8.0\Pours.Application.Generated
 C:\pourevents\src\Pours.Application\obj\Debug\net8.0\Pours.Application.AssemblyInfoInputs.cache
 C:\pourevents\src\Pours.Application\obj\Debug\net8.0\Pours.Application.AssemblyInfo.cs
 C:\pourevents\src\Pours.Application\obj\Debug\net8.0\Pours.Application.csproj.CoreCompileInputs.cache
+C:\pourevents\src\Pours.Application\obj\Debug\net8.0\Pours.Application.sourcelink.json
 C:\pourevents\src\Pours.Application\obj\Debug\net8.0\Pours.Ap.5C023835.Up2Date
 C:\pourevents\src\Pours.Application\obj\Debug\net8.0\Pours.Application.dll
 C:\pourevents\src\Pours.Application\obj\Debug\net8.0\refint\Pours.Application.dll

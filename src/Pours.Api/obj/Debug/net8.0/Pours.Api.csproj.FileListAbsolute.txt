@@ -104,6 +104,7 @@ C:\pourevents\src\Pours.Api\obj\Debug\net8.0\Pours.Api.AssemblyInfo.cs
 C:\pourevents\src\Pours.Api\obj\Debug\net8.0\Pours.Api.csproj.CoreCompileInputs.cache
 C:\pourevents\src\Pours.Api\obj\Debug\net8.0\Pours.Api.MvcApplicationPartsAssemblyInfo.cs
 C:\pourevents\src\Pours.Api\obj\Debug\net8.0\Pours.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\pourevents\src\Pours.Api\obj\Debug\net8.0\Pours.Api.sourcelink.json
 C:\pourevents\src\Pours.Api\obj\Debug\net8.0\rjimswa.dswa.cache.json
 C:\pourevents\src\Pours.Api\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
 C:\pourevents\src\Pours.Api\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
