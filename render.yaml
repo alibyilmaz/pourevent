@@ -5,9 +5,9 @@ services:
     dockerfilePath: ./Dockerfile
     plan: free
     envVars:
-      - key: DATABASE_URL
+      - key: ConnectionStrings__DefaultConnection
         sync: false
-      - key: API_KEY
+      - key: Authentication__ApiKey
         generateValue: true
       - key: PORT
         value: "10000"
